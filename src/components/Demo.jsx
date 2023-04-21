@@ -127,6 +127,9 @@ const Demo = () => {
                     )
                 )}
             </div>
+            <h1 className='desc'>
+                Made with ☕ by <span className='orange_gradient '> Rishabh Saklani </span>©️ 2023
+            </h1>
         </section>
     )
 }
