@@ -2,8 +2,11 @@
 
 This is a React application that uses AI to summarize long articles into shorter, easier-to-read summaries.
 
-## Getting Started
 
+## Getting Started
+![Screenshot 2023-04-22 032119](https://user-images.githubusercontent.com/74286801/233740277-e2966ace-4e86-4d37-ab2a-bb4e55a71251.png)
+
+## Demo: https://react-ai-summarizer-by-rishabhsaklani.netlify.app/
 To get started with this project, you will need to have Node.js and npm installed on your computer. You can download them from the official Node.js website: https://nodejs.org/en/
 
 1. Clone this repository to your local machine:
