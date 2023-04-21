@@ -24,7 +24,7 @@ To get started with this project, you will need to have Node.js and npm installe
    npm run dev
    ```
 
-4. Open your browser and go to http://localhost:3000 to view the application.
+4. Open your browser and go to http://localhost:5174/ to view the application.
 
 ## Usage
 
